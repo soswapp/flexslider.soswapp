@@ -1,0 +1,21 @@
+{
+    "name": "soswapp/flexslider.soswapp",
+    "description": "Woocommerce Flexslider - optimized for 7 OS Web",
+    "keywords": ["css", "javascript","7","seven","os","web","flexslider"],
+    "homepage": "https://github.com/soswapp/flexslider.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        }
+    ],
+    "require": {
+      "soswapp/jquery.soswapp" : ">=0.1@stable"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {}
+    }
+}
